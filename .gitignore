@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# Public static files folder
+public/
+
+# Yarn lockfile
+yarn.lock

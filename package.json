@@ -1,0 +1,26 @@
+{
+  "name": "express-http",
+  "version": "1.0.0",
+  "description": "Small setup to deploy a quick http server using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-prism/express.js.git"
+  },
+  "keywords": [
+    "express.js"
+  ],
+  "author": "the-prism",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/the-prism/express.js/issues"
+  },
+  "homepage": "https://github.com/the-prism/express.js#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "express": "^4.16.3"
+  }
+}
